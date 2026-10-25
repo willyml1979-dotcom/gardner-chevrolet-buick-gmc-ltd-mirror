@@ -1,3332 +1,1711 @@
 {
   "dealership": "Gardner Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-10-24T20:24:07",
-  "vehicle_count": 248,
+  "generated_at": "2026-10-25T14:28:06",
+  "vehicle_count": 253,
   "currency": "CAD",
-  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
       "name": "1987ChevroletCorvetteBASE",
       "vin": "1G1YY3182H5116356",
-      "stock": "5C314B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/d71a36216c4c.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/1987-chevrolet-corvette-base-id15161553.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/1987-chevrolet-corvette-base-id15161553.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:42:02",
-      "odometer_km": 16382816,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "1990BuickReattaBASE",
       "vin": "1G4EC33C7LB906560",
-      "stock": "3U037",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/5924d685b945.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/1990-buick-reatta-base-id12664669.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/1990-buick-reatta-base-id12664669.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:45:27",
-      "odometer_km": 2751027,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2007ChevroletCorvette2dr Coupe",
       "vin": "1G1YY26U175119747",
-      "stock": "5C314A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/72bd2cb9b63b.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2007-chevrolet-corvette-base-id15161552.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2007-chevrolet-corvette-base-id15161552.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:45:35",
-      "odometer_km": 26328826,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2007GMCSierra 2500HD",
       "vin": "1GTHK23D47F166391",
-      "stock": "4T031A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/91406398c780.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2007-gmc-sierra-2500hd-id15366441.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2007-gmc-sierra-2500hd-id15366441.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:45:53",
-      "odometer_km": 23524323,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2008CadillacCTS3.6L w/1SB 4dr All-Wheel Drive Sedan",
       "vin": "1G6DS57V580172551",
-      "stock": "5T073C",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/14c7351955ab.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2008-cadillac-cts-36l-id15043655.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2008-cadillac-cts-36l-id15043655.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:46:01",
-      "odometer_km": 19458019,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2009GMCSierra 1500",
       "vin": "3GTEK13319G202348",
-      "stock": "5T254B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/596f854a1533.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2009-gmc-sierra-1500-id15366448.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2009-gmc-sierra-1500-id15366448.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T03:56:20",
-      "odometer_km": 25041525,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2010ChevroletSilverado 2500HDLTZ 4x4 Crew Cab 6.6 ft. box",
       "vin": "1GC4KYB63AF126069",
-      "stock": "6T163B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/ab31992c259a.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2010-chevrolet-silverado-2500hd-ltz-id15017515.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2010-chevrolet-silverado-2500hd-ltz-id15017515.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T03:56:29",
-      "odometer_km": 28908328,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2010VolkswagenNew Beetle2.5L Comfortline (A6) 2dr Convertible",
       "vin": "3VWRW2AL0AM001980",
-      "stock": "6T161B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/3a1b3292ac93.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2010-volkswagen-new-beetle-25l-comfortline-id14700583.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2010-volkswagen-new-beetle-25l-comfortline-id14700583.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T03:56:37",
-      "odometer_km": 8155781,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2010VolkswagenRoutanTrendline Front-Wheel Drive Passenger Van",
       "vin": "2V4RW4DX3AR222145",
-      "stock": "3T315C",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/8bf3c4d5b199.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2010-volkswagen-routan-trendline-id13325740.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2010-volkswagen-routan-trendline-id13325740.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T03:56:46",
-      "odometer_km": 21371921,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2011BuickEnclaveCXL All-Wheel Drive Sport Utility",
       "vin": "5GAKVCED7BJ153206",
-      "stock": "5T135C",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/b4f5cab59100.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2011-buick-enclave-cxl-id14550860.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2011-buick-enclave-cxl-id14550860.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T03:56:55",
-      "odometer_km": 25568025,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2011JeepCompassSport/North 4dr 4x4",
       "vin": "1J4NF4FB5BD140152",
-      "stock": "4T387A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/3e9ae46483f2.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2011-jeep-compass-sportnorth-id13254960.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2011-jeep-compass-sportnorth-id13254960.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T03:57:03",
-      "odometer_km": 16816116,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2012ChevroletExpress 2500Standard Rear-Wheel Drive Cargo Van",
       "vin": "1GCWGFCG4C1119900",
-      "stock": "6U018",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/55809b33fb37.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2012-chevrolet-express-2500-standard-id15437270.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2012-chevrolet-express-2500-standard-id15437270.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:42:11",
-      "odometer_km": 22134822,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2012DodgeJourneyR/T 4dr All-Wheel Drive",
       "vin": "3C4PDDFG2CT188719",
-      "stock": "8U059B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/1e37872e85a9.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2012-dodge-journey-rt-id12277576.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2012-dodge-journey-rt-id12277576.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T03:57:11",
-      "odometer_km": 16079916,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2012GMCAcadiaSLE All-Wheel Drive",
       "vin": "1GKKVPED7CJ206661",
-      "stock": "4T176A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/c961fe07cb74.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2012-gmc-acadia-sle-id14407871.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2012-gmc-acadia-sle-id14407871.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T03:57:19",
-      "odometer_km": 25311325,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2012GMCSierra 3500HDSLT 4x4 Crew Cab 6.6 ft. box SRW",
       "vin": "1GT424C87CF235002",
-      "stock": "6T380A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/b92b12250352.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2012-gmc-sierra-3500hd-slt-id15384101.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2012-gmc-sierra-3500hd-slt-id15384101.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:42:20",
-      "odometer_km": 29909729,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2012InfinitiQX568 Passenger 4dr All-Wheel Drive",
       "vin": "JN8AZ2NE3C9016823",
-      "stock": "8U019A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/1c967715c635.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2012-infiniti-qx56-base-id11307229.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2012-infiniti-qx56-base-id11307229.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T03:57:26",
-      "odometer_km": 21807921,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2013ChevroletSilverado 1500LS 4x4 Crew Cab 5.75 ft. box",
       "vin": "3GCPKREA0DG235367",
-      "stock": "6T361A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/f8ed84f56178.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2013-chevrolet-silverado-1500-ls-id15456184.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2013-chevrolet-silverado-1500-ls-id15456184.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:32:23",
-      "odometer_km": 27816727,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2013ChevroletSpark2LT Manual 4dr Hatchback",
       "vin": "KL8CE6S93DC508277",
-      "stock": "19017A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/e65d350bd615.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2013-chevrolet-spark-2lt-manual-id11307150.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2013-chevrolet-spark-2lt-manual-id11307150.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T03:57:34",
-      "odometer_km": 27106327,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2013ChevroletTahoeLT 4x4",
       "vin": "1GNSKBE06DR317751",
-      "stock": "6T095B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/8cc8aa3cff57.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2013-chevrolet-tahoe-lt-id15222301.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2013-chevrolet-tahoe-lt-id15222301.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T03:57:42",
-      "odometer_km": 19021919,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2013GMCSierra 3500HDDenali 4x4 Crew Cab 6.6 ft. box SRW",
       "vin": "1GT426E88DF196754",
-      "stock": "1T140B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/e6820ee04e6f.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2013-gmc-sierra-3500hd-denali-id11513308.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2013-gmc-sierra-3500hd-denali-id11513308.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T03:57:51",
-      "odometer_km": 32800032,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2013GMCSierra 3500HDSLT 4x4 Crew Cab 8 ft. box DRW",
       "vin": "1GT424E88DF143556",
-      "stock": "2T118A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/0f2a3866ce3c.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2013-gmc-sierra-3500hd-slt-id11500186.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2013-gmc-sierra-3500hd-slt-id11500186.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T03:58:01",
-      "odometer_km": 35135235,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2013JeepGrand CherokeeLaredo 4dr 4x4",
       "vin": "1C4RJFAG9DC622247",
-      "stock": "2T061A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/67d0a75bf0e9.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2013-jeep-grand-cherokee-laredo-id11796719.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2013-jeep-grand-cherokee-laredo-id11796719.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T03:58:09",
-      "odometer_km": 21854921,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2014ChevroletSilverado 2500HDLTZ 4x4 Crew Cab 8 ft. box",
       "vin": "1GC1KYCG2EF181502",
-      "stock": "1T403A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/82305af30189.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2014-chevrolet-silverado-2500hd-ltz-id11330942.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2014-chevrolet-silverado-2500hd-ltz-id11330942.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T03:58:17",
-      "odometer_km": 20046120,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2014Fiat500LTrekking 4dr Hatchback",
       "vin": "ZFBCFADH5EZ024592",
-      "stock": "5U017A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/37b7ebc1823f.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2014-fiat-500l-trekking-id14355530.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2014-fiat-500l-trekking-id14355530.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:45:20",
-      "odometer_km": 23093923,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2014GMCAcadiaSLT1 All-Wheel Drive",
       "vin": "1GKKVRKD1EJ358521",
-      "stock": "5T087A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/894842564263.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2014-gmc-acadia-slt1-id14198126.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2014-gmc-acadia-slt1-id14198126.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:45:29",
-      "odometer_km": 19630819,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2014GMCTerrainSLE-2 Front-Wheel Drive Sport Utility",
       "vin": "2GKFLRE30E6249040",
-      "stock": "2U002",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/27c927a3f3dc.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2014-gmc-terrain-sle-2-id11307217.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2014-gmc-terrain-sle-2-id11307217.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:45:37",
-      "odometer_km": 24927524,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2014Mazda3GT-SKY (A6) 4dr Sedan",
       "vin": "JM1BM1W30E1133797",
-      "stock": "3T374B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/966b04f4e7ed.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2014-mazda-mazda3-gt-sky-id15142103.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2014-mazda-mazda3-gt-sky-id15142103.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T04:57:11",
-      "odometer_km": 11790811,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2015CadillacEscaladePremium 4x4",
       "vin": "1GYS4NKJ2FR577885",
-      "stock": "1T393A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/750cf030d050.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2015-cadillac-escalade-premium-id11307194.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2015-cadillac-escalade-premium-id11307194.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:45:53",
-      "odometer_km": 14794714,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2015ChevroletSilverado 15001LT LT  4x4 Crew Cab 5.75 ft. box",
       "vin": "3GCUKREH8FG339396",
-      "stock": "6T147A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/4ae45a064c9c.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2015-chevrolet-silverado-1500-1lt-id14878607.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2015-chevrolet-silverado-1500-1lt-id14878607.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:46:00",
-      "odometer_km": 23575023,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2015ChevroletSilverado 15001LT LT  4x4 Crew Cab 6.5 ft. box",
       "vin": "3GCUKRECXFG438306",
-      "stock": "6T238C",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/ca9235413a0f.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2015-chevrolet-silverado-1500-1lt-id15005781.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2015-chevrolet-silverado-1500-1lt-id15005781.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:46:08",
-      "odometer_km": 24585324,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2015ChevroletTahoeLT 4x4",
       "vin": "1GNSKBKC3FR137404",
-      "stock": "5T040A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/857923ab8ec6.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2015-chevrolet-tahoe-lt-id13933031.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2015-chevrolet-tahoe-lt-id13933031.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:46:17",
-      "odometer_km": 20534520,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2015FordEscapeS 4dr Front-Wheel Drive",
       "vin": "1FMCU0F7XFUC30468",
-      "stock": "6T376B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/44a2652e67dc.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2015-ford-escape-s-id15413866.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2015-ford-escape-s-id15413866.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:42:29",
-      "odometer_km": 18659918,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2015GMCSierra 3500HDSLE 4x4 Crew Cab 6.6 ft. box SRW",
       "vin": "1GT422C85FF107382",
-      "stock": "6T379A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/a68d60460db9.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2015-gmc-sierra-3500hd-sle-id15384100.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2015-gmc-sierra-3500hd-sle-id15384100.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:42:36",
-      "odometer_km": 31490031,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2015GMCSierra 3500HDSLT 4x4 Crew Cab 6.6 ft. box SRW",
       "vin": "1GT423E86FF584003",
-      "stock": "6T334A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/ae96553500e8.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2015-gmc-sierra-3500hd-slt-id15213076.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2015-gmc-sierra-3500hd-slt-id15213076.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:46:25",
-      "odometer_km": 27690527,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2015GMCSierra 3500HDSLT 4x4 Crew Cab 6.6 ft. box SRW",
       "vin": "1GT423E84FF548228",
-      "stock": "6T383A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/56d0ae8bc75f.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2015-gmc-sierra-3500hd-slt-id15384102.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2015-gmc-sierra-3500hd-slt-id15384102.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:42:46",
-      "odometer_km": 31299031,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2015NissanPathfinderS 4dr 4x4",
       "vin": "5N1AR2MMXFC609473",
-      "stock": "3T288A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/0aa6e6ae8225.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2015-nissan-pathfinder-s-id12684555.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2015-nissan-pathfinder-s-id12684555.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:46:35",
-      "odometer_km": 29790229,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2015RAM1500Longhorn 4x4 Crew Cab 5.6 ft. box",
       "vin": "1C6RR7PM9FS559212",
-      "stock": "4T046A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/c4117757b8e3.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2015-ram-1500-longhorn-id12701689.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2015-ram-1500-longhorn-id12701689.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:46:44",
-      "odometer_km": 6741667,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2016AudiS74.0T 4dr All-Wheel Drive quattro Sportback",
       "vin": "WAUW2AFC0GN152074",
-      "stock": "4T044C",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/2dd4bc2a0fb6.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2016-audi-s7-40t-id13220349.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2016-audi-s7-40t-id13220349.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:46:51",
-      "odometer_km": 8738587,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2016ChevroletEquinoxLT Front-Wheel Drive",
       "vin": "2GNALCEK9G1118982",
-      "stock": "6T224A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/7c12ca4d6d97.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2016-chevrolet-equinox-lt-id15197384.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2016-chevrolet-equinox-lt-id15197384.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:47:00",
-      "odometer_km": 12995412,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2016ChevroletSonicLTZ Auto 4dr Hatchback",
       "vin": "1G1JE6SB6G4175100",
-      "stock": "6T376A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/01b9cc309275.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2016-chevrolet-sonic-ltz-auto-id15413865.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2016-chevrolet-sonic-ltz-auto-id15413865.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:42:54",
-      "odometer_km": 21596221,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2016FordF-150XLT 4x4 SuperCrew Cab Styleside 5.5 ft. box",
       "vin": "1FTEW1EP2GKD61356",
-      "stock": "2T321A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/6de32a2fc348.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2016-ford-f-150-xlt-id11737821.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2016-ford-f-150-xlt-id11737821.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:47:17",
-      "odometer_km": 17746117,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2016GMCSierra 1500SLT 4x4 Crew Cab 5.75 ft. box",
       "vin": "3GTU2NEC2GG364163",
-      "stock": "4T273A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/fced6aa7c352.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2016-gmc-sierra-1500-slt-id13128528.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2016-gmc-sierra-1500-slt-id13128528.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:28:10",
-      "odometer_km": 25054425,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2016GMCSierra 3500HDSLT 4x4 Crew Cab 8 ft. box SRW",
       "vin": "1GT42XEG2GF130542",
-      "stock": "3T244B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/a9660091150b.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2016-gmc-sierra-3500hd-slt-id12533918.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2016-gmc-sierra-3500hd-slt-id12533918.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:28:21",
-      "odometer_km": 18895018,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2017BuickEnvisionPreferred All-Wheel Drive",
       "vin": "LRBFXCSA8HD242471",
-      "stock": "6T081A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/d4dfa27c491e.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2017-buick-envision-preferred-id14936023.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2017-buick-envision-preferred-id14936023.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:28:28",
-      "odometer_km": 14273314,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2017ChevroletImpala1LT LT  4dr Sedan",
       "vin": "2G1105SA4H9173232",
-      "stock": "3U010",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/755d0a420b47.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2017-chevrolet-impala-1lt-id12153483.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2017-chevrolet-impala-1lt-id12153483.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:28:37",
-      "odometer_km": 17750817,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2017FordF-150",
       "vin": "1FTEW1EG3HFA29145",
-      "stock": "3T064A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/78eeae4d9cdf.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2017-ford-f-150-id15366438.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2017-ford-f-150-id15366438.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:28:46",
-      "odometer_km": 22373422,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2017Forest RiverUTILITY TRAILERUNKNOWN",
       "vin": "4X4SSZ108JN108063",
-      "stock": "CU006",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/fd5e7b773317.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2017-forest-river-utility-trailer-unknown-id15085668.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2017-forest-river-utility-trailer-unknown-id15085668.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:28:55",
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2017GMCAcadiaSLE-1 All-Wheel Drive",
       "vin": "1GKKNRLA1HZ315629",
-      "stock": "6T086A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/c5eae134f84d.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2017-gmc-acadia-sle-1-id14651785.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2017-gmc-acadia-sle-1-id14651785.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:29:03",
-      "odometer_km": 20349520,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2017GMCSierra 1500Denali 4x4 Crew Cab 5.75 ft. box",
       "vin": "3GTU2PEJ2HG269677",
-      "stock": "3T340A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/d494be94b75b.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2017-gmc-sierra-1500-denali-id12714499.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2017-gmc-sierra-1500-denali-id12714499.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:00:03",
-      "odometer_km": 20235620,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2017GMCSierra 1500Denali 4x4 Crew Cab 5.75 ft. box",
       "vin": "3GTU2PEC5HG503909",
-      "stock": "3T254A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/2ce3cae7454b.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2017-gmc-sierra-1500-denali-id12829303.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2017-gmc-sierra-1500-denali-id12829303.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:29:20",
-      "odometer_km": 21500221,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2017GMCSierra 1500Denali 4x4 Crew Cab 5.75 ft. box",
       "vin": "3GTU2PEC5HG143802",
-      "stock": "4T159C",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/88c38870344b.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2017-gmc-sierra-1500-denali-id15338573.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2017-gmc-sierra-1500-denali-id15338573.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:29:29",
-      "odometer_km": 28540128,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2017GMCSierra 1500SLT 4x4 Crew Cab 5.75 ft. box",
       "vin": "3GTU2NEC9HG445033",
-      "stock": "5C090B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/bd8985a1ceb9.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2017-gmc-sierra-1500-slt-id14464393.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2017-gmc-sierra-1500-slt-id14464393.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:29:36",
-      "odometer_km": 23795023,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2017GMCSierra 3500HDSLE 4x4 Crew Cab 8 ft. box SRW",
       "vin": "1GT42WCY2HF111996",
-      "stock": "6T335B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/38f7271887e3.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2017-gmc-sierra-3500hd-sle-id15434931.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2017-gmc-sierra-3500hd-sle-id15434931.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:43:04",
-      "odometer_km": 37418237,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2017GMCSierra 3500HDSLT 4x4 Crew Cab 8 ft. box SRW",
       "vin": "1GT42XEY9HF200662",
-      "stock": "6T384A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/155b43e47155.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2017-gmc-sierra-3500hd-slt-id15384103.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2017-gmc-sierra-3500hd-slt-id15384103.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:43:13",
-      "odometer_km": 29729929,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2017GMCYukonDenali 4x4",
       "vin": "1GKS2CKJ2HR382764",
-      "stock": "2T240A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/e7c121645ca3.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2017-gmc-yukon-denali-id11810944.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2017-gmc-yukon-denali-id11810944.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:29:45",
-      "odometer_km": 12486512,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2017GMCYukon XLDenali 4x4",
       "vin": "1GKS2HKJ9HR364131",
-      "stock": "3U003",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/0278be26b7e2.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2017-gmc-yukon-xl-denali-id12023850.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2017-gmc-yukon-xl-denali-id12023850.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:29:54",
-      "odometer_km": 18959018,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2017Land RoverRange Rover SportDIESEL Td6 HSE 4dr 4x4",
       "vin": "SALWR2FK1HA127326",
-      "stock": "4U019",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/7cdbe3490823.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2017-land-rover-range-rover-sport-diesel-td6-hse-id13967673.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2017-land-rover-range-rover-sport-diesel-td6-hse-id13967673.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:30:03",
-      "odometer_km": 13291413,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2018ChevroletExpress Cutaway 45004500 Van Chassis DRW",
       "vin": "1HA6GUCGXJN002263",
-      "stock": "3U034",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/5921e6d4cd55.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2018-chevrolet-express-cutaway-4500-4500-van-id12492719.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2018-chevrolet-express-cutaway-4500-4500-van-id12492719.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:30:10",
-      "odometer_km": 7694076,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2018ChevroletImpala2LZ Premier  4dr Sedan",
       "vin": "1G1125S3XJU108566",
-      "stock": "4T203C",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/7ba8ae230c78.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2018-chevrolet-impala-2lz-id15420408.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2018-chevrolet-impala-2lz-id15420408.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:43:20",
-      "odometer_km": 14254014,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2018ChevroletMalibuLT 4dr Sedan",
       "vin": "1G1ZD5ST4JF116499",
-      "stock": "3T001B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/a3bfb61f35d6.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2018-chevrolet-malibu-lt-id12200065.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2018-chevrolet-malibu-lt-id12200065.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:32:10",
-      "odometer_km": 10592710,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2018ChevroletTahoePremier 4x4",
       "vin": "1GNSKCKJ1JR226157",
-      "stock": "5T146A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/14d128873829.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2018-chevrolet-tahoe-premier-id14498666.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2018-chevrolet-tahoe-premier-id14498666.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:32:18",
-      "odometer_km": 11974211,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2018GMCCanyonDenali 4x4 Crew Cab 5 ft. box",
       "vin": "1GTP6EE18J1153362",
-      "stock": "5T302C",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/614efe0468a6.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2018-gmc-canyon-denali-id15226993.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2018-gmc-canyon-denali-id15226993.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:32:28",
-      "odometer_km": 32525532,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2018GMCSierra 1500Denali 4x4 Crew Cab 5.75 ft. box",
       "vin": "3GTU2PEJ8JG251268",
-      "stock": "3T279A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/b8db90fe5e56.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2018-gmc-sierra-1500-denali-id12651830.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2018-gmc-sierra-1500-denali-id12651830.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:32:38",
-      "odometer_km": 17672417,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2018GMCSierra 3500HDSLE 4x4 Crew Cab 6.6 ft. box SRW",
       "vin": "1GT42WCY1JF193211",
-      "stock": "3T174A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/227a757581fb.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2018-gmc-sierra-3500hd-sle-id12087029.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2018-gmc-sierra-3500hd-sle-id12087029.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:32:48",
-      "odometer_km": 24497224,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2018JeepCompassLimited 4dr 4x4",
       "vin": "3C4NJDCB0JT107349",
-      "stock": "4T092C",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/bdc66a1e711a.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2018-jeep-compass-limited-id13683924.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2018-jeep-compass-limited-id13683924.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:32:56",
-      "odometer_km": 6287262,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2019AcuraMDXElite 7-Passenger (A9) 4dr SH-AWD",
       "vin": "5J8YD4H88KL802128",
-      "stock": "6T175C",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/8f37863c9749.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2019-acura-mdx-elite-id15437269.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2019-acura-mdx-elite-id15437269.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:43:29",
-      "odometer_km": 13379413,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2019ChevroletEquinoxLT w/2LT All-Wheel Drive",
       "vin": "2GNAXVEX6K6135584",
-      "stock": "5U025",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/0ee4f87f6b4b.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2019-chevrolet-equinox-lt-id15001988.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2019-chevrolet-equinox-lt-id15001988.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:33:06",
-      "odometer_km": 4597845,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2019ChevroletSilverado 3500HDLT 4x4 Crew Cab 8 ft. box SRW",
       "vin": "1GC4KWCY4KF178381",
-      "stock": "3T162A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/c8772f9ecdd0.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2019-chevrolet-silverado-3500hd-lt-id12157879.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2019-chevrolet-silverado-3500hd-lt-id12157879.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:33:13",
-      "odometer_km": 18058118,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2019FordTransit-250w/Sliding Pass-Side Cargo Door Medium Roof Cargo Van",
       "vin": "1FTYR1CG1KKA43907",
-      "stock": "3U023",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/f156b77215a0.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2019-ford-transit-250-base-id12323763.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2019-ford-transit-250-base-id12323763.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:33:22",
-      "odometer_km": 10339410,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2019GMCCanyonDenali 4x4 Crew Cab 5 ft. box",
       "vin": "1GTG6EENXK1104751",
-      "stock": "4T312B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/e8490f9bba50.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2019-gmc-canyon-denali-id13313485.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2019-gmc-canyon-denali-id13313485.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:33:30",
-      "odometer_km": 4041940,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2019GMCSierra 1500AT4 4x4 Crew Cab 6.6 ft. box",
       "vin": "1GTP9EED7KZ272959",
-      "stock": "5T347A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/a94a5755af01.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2019-gmc-sierra-1500-at4-id14678424.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2019-gmc-sierra-1500-at4-id14678424.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:33:39",
-      "odometer_km": 5219852,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2019GMCSierra 3500HDSLT 4x4 Crew Cab 8 ft. box SRW",
       "vin": "1GT42VEY1KF141652",
-      "stock": "5T360B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/1abb746d63ef.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2019-gmc-sierra-3500hd-slt-id14587484.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2019-gmc-sierra-3500hd-slt-id14587484.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:33:48",
-      "odometer_km": 28448728,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2019GMCTerrainSLE All-Wheel Drive",
       "vin": "3GKALTEX7KL167744",
-      "stock": "5T106A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/49c997978a87.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2019-gmc-terrain-sle-id14259413.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2019-gmc-terrain-sle-id14259413.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:33:55",
-      "odometer_km": 7985179,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2019GMCTerrainSLE All-Wheel Drive",
       "vin": "3GKALTEV2KL182344",
-      "stock": "6T296A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/f022b66b7d2c.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2019-gmc-terrain-sle-id15136375.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2019-gmc-terrain-sle-id15136375.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:34:05",
-      "odometer_km": 10032410,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2019GMCYukonDenali 4x4",
       "vin": "1GKS2CKJ8KR147115",
-      "stock": "6T032A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/28bcd9caf5b7.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2019-gmc-yukon-denali-id14488031.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2019-gmc-yukon-denali-id14488031.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:34:13",
-      "odometer_km": 16106016,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2019HondaOdysseyEX-L w/Navi (A9) Passenger Van",
       "vin": "5FNRL6H69KB502021",
-      "stock": "4T379A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/48cd9ad9066b.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2019-honda-odyssey-ex-l-id13458726.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2019-honda-odyssey-ex-l-id13458726.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:32:51",
-      "odometer_km": 14824514,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2019KiaForteEX (IVT) 4dr Sedan",
       "vin": "3KPF54AD3KE031354",
-      "stock": "6T287A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/8b056ad81796.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2019-kia-forte-ex-id15097921.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2019-kia-forte-ex-id15097921.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:33:01",
-      "odometer_km": 14228514,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2019KiaNiro EVSX Touring 4dr Front-Wheel Drive Sport Utility",
       "vin": "KNDCE3LG7K5018557",
-      "stock": "6T012A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/fbc47010e4f6.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2019-kia-niro-ev-sx-touring-id15197383.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2019-kia-niro-ev-sx-touring-id15197383.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:33:09",
-      "odometer_km": 16886816,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2019KiaSoul EVEV Luxury w/Sunroof (A1) 4dr Hatchback",
       "vin": "KNDJR3AE0K7038571",
-      "stock": "3T283A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/976fa41246e2.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2019-kia-soul-ev-ev-luxury-id12790832.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2019-kia-soul-ev-ev-luxury-id12790832.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:33:19",
-      "odometer_km": 14637514,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2019NissanMuranoSV 4dr All-Wheel Drive",
       "vin": "5N1AZ2MS7KN163148",
-      "stock": "6T413A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/36d6bb29c2a4.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2019-nissan-murano-sv-id15456185.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2019-nissan-murano-sv-id15456185.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:32:33",
-      "odometer_km": 15743415,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2020ChevroletColoradoZ71 4x4 Crew Cab 6 ft. box",
       "vin": "1GCGTDEN3L1224587",
-      "stock": "6T039A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/580985b5a000.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2020-chevrolet-colorado-z71-id15022594.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2020-chevrolet-colorado-z71-id15022594.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:33:28",
-      "odometer_km": 13302513,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2020ChevroletEquinoxLT w/1LT All-Wheel Drive",
       "vin": "2GNAXUEV4L6248220",
-      "stock": "6T025A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/7487a04db1d8.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2020-chevrolet-equinox-lt-id14823023.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2020-chevrolet-equinox-lt-id14823023.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:33:36",
-      "odometer_km": 11227511,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2020ChevroletEquinoxPremier w/1LZ All-Wheel Drive",
       "vin": "2GNAXXEV0L6245722",
-      "stock": "6T235A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/3db61ba168e7.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2020-chevrolet-equinox-premier-id15145799.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2020-chevrolet-equinox-premier-id15145799.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:33:45",
-      "odometer_km": 4846248,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2020ChevroletMalibu1LS LS w/ 4dr Sedan",
       "vin": "1G1ZB5ST8LF083418",
-      "stock": "2U031",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/4e64ea399081.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2020-chevrolet-malibu-1ls-id11813417.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2020-chevrolet-malibu-1ls-id11813417.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:33:55",
-      "odometer_km": 9025390,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2020ChevroletSilverado 1500High Country 4x4 Crew Cab 5.75 ft. box",
       "vin": "1GCUYHET8LZ366607",
-      "stock": "4T460A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/2c54cadbf1f4.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2020-chevrolet-silverado-1500-high-country-id13479054.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2020-chevrolet-silverado-1500-high-country-id13479054.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:34:04",
-      "odometer_km": 8587885,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2020ChevroletSilverado 1500High Country 4x4 Crew Cab 5.75 ft. box",
       "vin": "1GCUYHETXLZ153013",
-      "stock": "6T020A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/d3292c2c6880.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2020-chevrolet-silverado-1500-high-country-id14498671.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2020-chevrolet-silverado-1500-high-country-id14498671.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:34:12",
-      "odometer_km": 5929259,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2020ChevroletSilverado 3500HDHigh Country 4x4 Crew Cab 6.75 ft. box SRW",
       "vin": "1GC4YVEY1LF179348",
-      "stock": "6T370A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/4afd3923acf1.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2020-chevrolet-silverado-3500hd-high-country-id15460753.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2020-chevrolet-silverado-3500hd-high-country-id15460753.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T09:54:19",
-      "odometer_km": 11391611,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2020ChevroletTahoePremier 4x4",
       "vin": "1GNSKCKC3LR177385",
-      "stock": "5T015B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/170c9303c612.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2020-chevrolet-tahoe-premier-id14939238.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2020-chevrolet-tahoe-premier-id14939238.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:34:20",
-      "odometer_km": 23147923,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2020GMCSierra 1500Denali 4x4 Crew Cab 5.75 ft. box",
       "vin": "1GTU9FEL7LZ228011",
-      "stock": "4T488A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/2784c5c69390.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2020-gmc-sierra-1500-denali-id13495166.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2020-gmc-sierra-1500-denali-id13495166.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:34:28",
-      "odometer_km": 11113111,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2020GMCSierra 1500SLT 4x4 Crew Cab 5.75 ft. box",
       "vin": "1GTU9DET9LZ152389",
-      "stock": "4T517A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/5161dbd16470.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2020-gmc-sierra-1500-slt-id13773541.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2020-gmc-sierra-1500-slt-id13773541.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:34:36",
-      "odometer_km": 16544916,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2020GMCSierra 3500HDSLE 4x4 Crew Cab 8 ft. box SRW",
       "vin": "1GT49TEY3LF177862",
-      "stock": "3T141A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/c139b877548c.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2020-gmc-sierra-3500hd-sle-id11926513.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2020-gmc-sierra-3500hd-sle-id11926513.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:34:45",
-      "odometer_km": 13734413,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2020GMCSierra 3500HDSLE 4x4 Crew Cab 8 ft. box SRW",
       "vin": "1GT49TE73LF273188",
-      "stock": "4T022A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/42456ebf347d.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2020-gmc-sierra-3500hd-sle-id12494509.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2020-gmc-sierra-3500hd-sle-id12494509.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:34:53",
-      "odometer_km": 10752310,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2020GMCSierra 3500HDSLE 4x4 Crew Cab 8 ft. box SRW",
       "vin": "1GT49TEY8LF307909",
-      "stock": "4T448B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/621238fe9ef8.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2020-gmc-sierra-3500hd-sle-id14304468.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2020-gmc-sierra-3500hd-sle-id14304468.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:36:48",
-      "odometer_km": 16628116,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2020GMCTerrainSLE All-Wheel Drive",
       "vin": "3GKALTEV4LL343892",
-      "stock": "6T404A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/b49550db89c2.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2020-gmc-terrain-sle-id15389052.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2020-gmc-terrain-sle-id15389052.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:36:57",
-      "odometer_km": 12283812,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2020JeepCherokeeTrailhawk 4dr 4x4",
       "vin": "1C4PJMBNXLD563825",
-      "stock": "6T046A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/ef1ffd65f80e.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2020-jeep-cherokee-trailhawk-id14729710.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2020-jeep-cherokee-trailhawk-id14729710.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:37:07",
-      "odometer_km": 9916799,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2021BuickEncore GXPreferred All-Wheel Drive",
       "vin": "KL4MMCSL5MB097165",
-      "stock": "5T231A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/07907a4d671a.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2021-buick-encore-gx-preferred-id14527729.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2021-buick-encore-gx-preferred-id14527729.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:37:17",
-      "odometer_km": 6701967,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2021ChevroletColoradoZR2 4x4 Crew Cab 5 ft. box",
       "vin": "1GCGTEEN1M1119201",
-      "stock": "5T112A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/9b17078f19c0.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2021-chevrolet-colorado-zr2-id14150339.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2021-chevrolet-colorado-zr2-id14150339.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:37:26",
-      "odometer_km": 11769111,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2021ChevroletSilverado 1500High Country 4x4 Crew Cab 5.75 ft. box",
       "vin": "1GCUYHED4MZ272668",
-      "stock": "4T261A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/f38097065386.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2021-chevrolet-silverado-1500-high-country-id12894647.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2021-chevrolet-silverado-1500-high-country-id12894647.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:37:35",
-      "odometer_km": 6237362,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2021ChevroletSilverado 3500HDLT 4x4 Crew Cab 8 ft. box SRW",
       "vin": "1GC4YTEYXMF276912",
-      "stock": "5T062A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/325bf1cc4a84.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2021-chevrolet-silverado-3500hd-lt-id13866145.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2021-chevrolet-silverado-3500hd-lt-id13866145.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:37:43",
-      "odometer_km": 20634720,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2021ChevroletSilverado 3500HDLTZ 4x4 Crew Cab 6.75 ft. box SRW",
       "vin": "1GC4YUEY9MF140616",
-      "stock": "6T409A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/87caacc2fb14.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2021-chevrolet-silverado-3500hd-ltz-id15445674.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2021-chevrolet-silverado-3500hd-ltz-id15445674.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:45:01",
-      "odometer_km": 20326620,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2021ChevroletTahoeRST 4x4",
       "vin": "1GNSKRKD9MR275396",
-      "stock": "6T172A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/a193a0b77bb4.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2021-chevrolet-tahoe-rst-id15010240.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2021-chevrolet-tahoe-rst-id15010240.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:37:51",
-      "odometer_km": 12652812,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2021GMCCanyonDenali 4x4 Crew Cab 5 ft. box",
       "vin": "1GTG6EEN0M1144775",
-      "stock": "6T055A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/bde8fc38a077.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2021-gmc-canyon-denali-id14703439.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2021-gmc-canyon-denali-id14703439.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:38:01",
-      "odometer_km": 9440394,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2021GMCSavana 2500Work Van Rear-Wheel Drive Extended Cargo Van",
       "vin": "1GTW7BFP9M1227161",
-      "stock": "3U019",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/f35fe0829a7b.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2021-gmc-savana-2500-work-van-id12280890.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2021-gmc-savana-2500-work-van-id12280890.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:38:10",
-      "odometer_km": 4450144,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2021GMCSierra 1500SLE 4x4 Crew Cab 5.75 ft. box",
       "vin": "1GTU9BED3MZ401316",
-      "stock": "6T288A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/a676f7fa65b5.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2021-gmc-sierra-1500-sle-id15213074.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2021-gmc-sierra-1500-sle-id15213074.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:38:20",
-      "odometer_km": 15827415,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2021GMCSierra 1500SLT 4x4 Crew Cab 6.6 ft. box",
       "vin": "1GTU9DET8MZ256339",
-      "stock": "4T285A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/261cea5835dc.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2021-gmc-sierra-1500-slt-id13037694.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2021-gmc-sierra-1500-slt-id13037694.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:38:29",
-      "odometer_km": 9365593,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2021GMCSierra 3500HDSLT 4x4 Crew Cab 8 ft. box DRW",
       "vin": "1GT49UEY2MF270489",
-      "stock": "2U009",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/8e0bf4981c6b.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2021-gmc-sierra-3500hd-slt-id12537149.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2021-gmc-sierra-3500hd-slt-id12537149.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:38:39",
-      "odometer_km": 21774121,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2021GMCYukonDenali 4x4",
       "vin": "1GKS2DKL0MR317848",
-      "stock": "5T039A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/2de2c06c25e4.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2021-gmc-yukon-denali-id13930384.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2021-gmc-yukon-denali-id13930384.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:38:47",
-      "odometer_km": 9175291,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2021GMCYukonDenali 4x4",
       "vin": "1GKS2DKL3MR479568",
-      "stock": "5T089A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/9d10a10739ff.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2021-gmc-yukon-denali-id14198127.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2021-gmc-yukon-denali-id14198127.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:38:55",
-      "odometer_km": 9768597,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2021JeepGrand CherokeeLaredo 4dr 4x4",
       "vin": "1C4RJFAG6MC685631",
-      "stock": "4T213A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/c37bfb2c533b.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2021-jeep-grand-cherokee-laredo-id13862666.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2021-jeep-grand-cherokee-laredo-id13862666.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T09:54:29",
-      "odometer_km": 4795547,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2021RAM3500Big Horn 4x4 Crew Cab 8 ft. box",
       "vin": "3C63R3HL2MG600188",
-      "stock": "5U012",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/8fb3b27f8433.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2021-ram-3500-big-horn-id14248879.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2021-ram-3500-big-horn-id14248879.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T09:54:39",
-      "odometer_km": 11056311,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2021ToyotaHighlanderLimited 4dr All-Wheel Drive",
       "vin": "5TDDZRBH0MS066615",
-      "stock": "6T286A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/35c88bb36c23.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2021-toyota-highlander-limited-id15093458.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2021-toyota-highlander-limited-id15093458.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T09:54:47",
-      "odometer_km": 11816511,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2022ChevroletColoradoWT 4x4 Crew Cab 5 ft. box",
       "vin": "1GCGTBEN7N1209520",
-      "stock": "6T118A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/dab8fec8f503.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2022-chevrolet-colorado-wt-id14952075.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2022-chevrolet-colorado-wt-id14952075.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T09:54:56",
-      "odometer_km": 18263518,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2022ChevroletSilverado 1500High Country 4x4 Crew Cab 6.6 ft. box",
       "vin": "3GCUDJET0NG634281",
-      "stock": "6T138B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/10eae4e8bff7.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2022-chevrolet-silverado-1500-high-country-id14708912.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2022-chevrolet-silverado-1500-high-country-id14708912.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T09:55:04",
-      "odometer_km": 6607666,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2022ChevroletSilverado 3500HDHigh Country 4x4 Crew Cab 6.75 ft. box SRW",
       "vin": "2GC4YVEY6N1220129",
-      "stock": "5T105A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/b24f54b5e990.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2022-chevrolet-silverado-3500hd-high-country-id14086892.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2022-chevrolet-silverado-3500hd-high-country-id14086892.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T09:55:14",
-      "odometer_km": 11609411,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2022ChevroletSilverado 3500HDHigh Country 4x4 Crew Cab 6.75 ft. box SRW",
       "vin": "2GC4YVEY9N1238981",
-      "stock": "6T234A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/145498b97692.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2022-chevrolet-silverado-3500hd-high-country-id15101033.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2022-chevrolet-silverado-3500hd-high-country-id15101033.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T09:55:22",
-      "odometer_km": 11547811,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2022ChevroletTrailBlazerLT Front-Wheel Drive",
       "vin": "KL79MPSL8NB068809",
-      "stock": "5T250B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/57f34b75311d.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2022-chevrolet-trailblazer-lt-id14291801.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2022-chevrolet-trailblazer-lt-id14291801.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T09:55:32",
-      "odometer_km": 12430012,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2022FordF-550 ChassisXL 4x4 SD Super Cab DRW",
       "vin": "1FD0X5HN5NED66745",
-      "stock": "6T110A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/bf71a6663d0c.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2022-ford-f-550-chassis-xl-id14560145.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2022-ford-f-550-chassis-xl-id14560145.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T09:55:41",
-      "odometer_km": 16787516,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2022GMCSierra 1500Denali 4x4 Crew Cab 6.6 ft. box",
       "vin": "3GTUUGED8NG671803",
-      "stock": "6U001",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/c55aca43f82f.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2022-gmc-sierra-1500-denali-id14908032.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2022-gmc-sierra-1500-denali-id14908032.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T09:55:49",
-      "odometer_km": 6992969,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2022GMCSierra 1500 LimitedAT4 4x4 Crew Cab 6.6 ft. box",
       "vin": "1GTP9EEL2NZ238374",
-      "stock": "6U016",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/5309bb996ecc.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2022-gmc-sierra-1500-limited-at4-id15393908.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2022-gmc-sierra-1500-limited-at4-id15393908.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T09:56:00",
-      "odometer_km": 17200717,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2022GMCSierra 1500SLT 4x4 Crew Cab 5.75 ft. box",
       "vin": "3GTUUDED3NG630736",
-      "stock": "6T306A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/72628938d618.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2022-gmc-sierra-1500-slt-id15288175.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2022-gmc-sierra-1500-slt-id15288175.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T09:56:08",
-      "odometer_km": 7001170,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2022GMCSierra 3500HDSLE 4x4 Crew Cab 8 ft. box SRW",
       "vin": "1GT49TE72NF176454",
-      "stock": "5T318A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/9f0fad96a05d.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2022-gmc-sierra-3500hd-sle-id14259415.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2022-gmc-sierra-3500hd-sle-id14259415.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T09:56:16",
-      "odometer_km": 24045024,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2022GMCYukonDenali 4x4",
       "vin": "1GKS2DKLXNR263542",
-      "stock": "5T223A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/3fdbff15a88f.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2022-gmc-yukon-denali-id14502479.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2022-gmc-yukon-denali-id14502479.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T09:56:25",
-      "odometer_km": 5724257,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2022RAM1500Laramie 4x4 Crew Cab",
       "vin": "1C6SRFJT3NN124257",
-      "stock": "4T361B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/9ea0e1b4a477.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2022-ram-1500-laramie-id14111357.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2022-ram-1500-laramie-id14111357.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T09:56:33",
-      "odometer_km": 5919859,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2022RAM1500Sport 4x4 Crew Cab",
       "vin": "1C6SRFVT7NN108377",
-      "stock": "4T075C",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/d7905e0163bb.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2022-ram-1500-sport-id13131702.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2022-ram-1500-sport-id13131702.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:22:05",
-      "odometer_km": 2643826,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2022RAM3500Laramie 4x4 Crew Cab 8 ft. box",
       "vin": "3C63R3JL9NG152317",
-      "stock": "4T266A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/2808e4f1e588.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2022-ram-3500-laramie-id12939580.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2022-ram-3500-laramie-id12939580.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:22:15",
-      "odometer_km": 7914879,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2023BuickEncore GXSelect All-Wheel Drive",
       "vin": "KL4MMESL8PB042984",
-      "stock": "5U002A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/538e4a2fae80.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2023-buick-encore-gx-select-id14762242.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2023-buick-encore-gx-select-id14762242.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:22:23",
-      "odometer_km": 12432512,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2023ChevroletCorvetteStingray w/3LT 2dr Convertible",
       "vin": "1G1YC3D48P5141235",
-      "stock": "4C194A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/8a96aa53b08e.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2023-chevrolet-corvette-stingray-id13154651.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2023-chevrolet-corvette-stingray-id13154651.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:23:12",
-      "odometer_km": 15491,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2023ChevroletEquinoxLS w/1LS Front-Wheel Drive",
       "vin": "3GNAXHEG5PL264372",
-      "stock": "4T408B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/08ce97cb2c5e.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2023-chevrolet-equinox-ls-id14325508.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2023-chevrolet-equinox-ls-id14325508.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:23:19",
-      "odometer_km": 2793327,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2023ChevroletMalibu1LT 4dr Sedan",
       "vin": "1G1ZD5STXPF177249",
-      "stock": "5U028",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/972d1f11d7fe.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2023-chevrolet-malibu-1lt-id14631435.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2023-chevrolet-malibu-1lt-id14631435.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:23:26",
-      "odometer_km": 8849088,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2023ChevroletSilverado 3500HDLT 4x4 Crew Cab 6.75 ft. box SRW",
       "vin": "2GC4YTEY8P1715455",
-      "stock": "6T080A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/b2fb0a80d5f8.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2023-chevrolet-silverado-3500hd-lt-id14708911.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2023-chevrolet-silverado-3500hd-lt-id14708911.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:23:35",
-      "odometer_km": 11846011,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2023ChevroletSilverado 3500HDWork Truck 4x4 Crew Cab 8 ft. box SRW",
       "vin": "1GC4YSE7XPF132928",
-      "stock": "6T335A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/dd3fbe239682.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2023-chevrolet-silverado-3500hd-work-truck-id15434930.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2023-chevrolet-silverado-3500hd-work-truck-id15434930.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:43:44",
-      "odometer_km": 19680519,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2023ChevroletTrailBlazerLT Front-Wheel Drive",
       "vin": "KL79MPS26PB089006",
-      "stock": "5T047A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/654585e9812b.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2023-chevrolet-trailblazer-lt-id13601135.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2023-chevrolet-trailblazer-lt-id13601135.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:23:43",
-      "odometer_km": 3614036,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2023GMCSierra 1500AT4 4x4 Crew Cab 5.75 ft. box",
       "vin": "3GTUUEE80PG297701",
-      "stock": "6T183B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/8c20f85c501f.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2023-gmc-sierra-1500-at4-id15311869.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2023-gmc-sierra-1500-at4-id15311869.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:22:32",
-      "odometer_km": 9593295,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2023GMCSierra 1500Denali 4x4 Crew Cab 6.6 ft. box",
       "vin": "3GTUUGE85PG106026",
-      "stock": "6T181A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/c721083626ec.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2023-gmc-sierra-1500-denali-id14865233.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2023-gmc-sierra-1500-denali-id14865233.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:22:40",
-      "odometer_km": 9578895,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2023GMCSierra 1500SLE",
       "vin": "3GTPUBEKXPG122377",
-      "stock": "23T148",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/ca08ea49b74b.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2023-gmc-sierra-1500-sle-id15366414.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2023-gmc-sierra-1500-sle-id15366414.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:22:48",
-      "odometer_km": 7794877,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2023GMCSierra 3500HDSLE 4x4 Crew Cab 8 ft. box SRW",
       "vin": "1GT49TEY9PF215486",
-      "stock": "5T069A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/665ce6ac7e2d.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2023-gmc-sierra-3500hd-sle-id14049553.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2023-gmc-sierra-3500hd-sle-id14049553.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:22:56",
-      "odometer_km": 12724212,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2023GMCSierra 3500HDSLE 4x4 Crew Cab 6.75 ft. box SRW",
       "vin": "1GT49TEY7PF235266",
-      "stock": "6T184A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/b98170affd39.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2023-gmc-sierra-3500hd-sle-id15439804.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2023-gmc-sierra-3500hd-sle-id15439804.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T03:56:09",
-      "odometer_km": 16620516,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2023GMCYukonSLT 4x4",
       "vin": "1GKS2BKD3PR545358",
-      "stock": "6T250A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/45e2b347fd6e.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2023-gmc-yukon-slt-id15229310.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2023-gmc-yukon-slt-id15229310.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:23:03",
-      "odometer_km": 10920010,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2024ChevroletSilverado 1500LT 4x4 Crew Cab 5.75 ft. box",
       "vin": "1GCUDDED0RZ206498",
-      "stock": "24T117",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/eabab47c4abd.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2024-chevrolet-silverado-1500-lt-id13017364.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2024-chevrolet-silverado-1500-lt-id13017364.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:23:52",
-      "odometer_km": 5180751,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2024ChevroletSilverado 3500HDHigh Country 4x4 Crew Cab 6.75 ft. box SRW",
       "vin": "2GC4YVEY6R1124197",
-      "stock": "6T090A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/381f301f0af6.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2024-chevrolet-silverado-3500hd-high-country-id14967689.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2024-chevrolet-silverado-3500hd-high-country-id14967689.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:24:01",
-      "odometer_km": 10058710,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2024ChevroletSilverado 3500HDLTZ 4x4 Crew Cab 6.75 ft. box SRW",
       "vin": "2GC4YUEY3R1142389",
-      "stock": "5T273A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/e8b52b361e31.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2024-chevrolet-silverado-3500hd-ltz-id14387546.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2024-chevrolet-silverado-3500hd-ltz-id14387546.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T04:06:51",
-      "odometer_km": 6680066,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2024GMCSierra 1500Denali 4x4 Crew Cab 5.75 ft. box",
       "vin": "1GTUUGE83RZ364872",
-      "stock": "5U020",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/709976e15e4f.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2024-gmc-sierra-1500-denali-id14329312.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2024-gmc-sierra-1500-denali-id14329312.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:12:51",
-      "odometer_km": 2101021,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2024GMCSierra 1500Denali 4x4 Crew Cab 5.75 ft. box",
       "vin": "3GTUUGE81RG128415",
-      "stock": "6T019A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/7db98283cd32.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2024-gmc-sierra-1500-denali-id14633879.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2024-gmc-sierra-1500-denali-id14633879.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:13:00",
-      "odometer_km": 4283942,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2024GMCSierra 1500Denali 4x4 Crew Cab 5.75 ft. box",
       "vin": "3GTUUGE8XRG116585",
-      "stock": "6T005A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/c885b8601a1b.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2024-gmc-sierra-1500-denali-id14678426.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2024-gmc-sierra-1500-denali-id14678426.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:13:09",
-      "odometer_km": 1771117,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2024GMCSierra 1500Denali 4x4 Crew Cab 5.75 ft. box",
       "vin": "3GTUUGEL0RG335379",
-      "stock": "6T162A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/684abc91d325.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2024-gmc-sierra-1500-denali-id14809593.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2024-gmc-sierra-1500-denali-id14809593.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:13:19",
-      "odometer_km": 4298942,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2024GMCSierra 1500Denali 4x4 Crew Cab 5.75 ft. box",
       "vin": "1GTUUGED9RZ187211",
-      "stock": "6T144A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/a6639afd8cd8.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2024-gmc-sierra-1500-denali-id14876321.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2024-gmc-sierra-1500-denali-id14876321.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:13:28",
-      "odometer_km": 4264242,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2024GMCSierra 3500HDDenali 4x4 Crew Cab 8 ft. box SRW",
       "vin": "1GT49WEYXRF318534",
-      "stock": "5T364A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/cc09a2138dce.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2024-gmc-sierra-3500hd-denali-id14629229.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2024-gmc-sierra-3500hd-denali-id14629229.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:13:38",
-      "odometer_km": 6100761,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2024GMCSierra 3500HDDenali Ultimate 4x4 Crew Cab 6.75 ft. box SRW",
       "vin": "1GT49YEY4RF403686",
-      "stock": "6T113A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/75ca1572a44b.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2024-gmc-sierra-3500hd-denali-ultimate-id15010239.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2024-gmc-sierra-3500hd-denali-ultimate-id15010239.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:44:01",
-      "odometer_km": 9771697,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2025ChevroletExpress 3500LT Rear-Wheel Drive Extended Passenger Van",
       "vin": "1GAZGPF70S1214928",
-      "stock": "6U015",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/dd09466f5562.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2025-chevrolet-express-3500-lt-id15391349.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2025-chevrolet-express-3500-lt-id15391349.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:44:11",
-      "odometer_km": 1586415,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2025GMCAcadiaDenali 4dr All-Wheel Drive",
       "vin": "1GKENRRS4SJ282936",
-      "stock": "6T230A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/67d768cc9b53.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2025-gmc-acadia-denali-id14936025.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2025-gmc-acadia-denali-id14936025.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:44:19",
-      "odometer_km": 1113211,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2025GMCCanyonElevation 4x4 Crew Cab 5 ft. box",
       "vin": "1GTP2BEK4S1229776",
-      "stock": "6T066B",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/9f812f5a2796.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2025-gmc-canyon-elevation-id15323299.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2025-gmc-canyon-elevation-id15323299.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:44:28",
-      "odometer_km": 1370213,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2025GMCSierra 3500HDDenali 4x4 Crew Cab 6.75 ft. box SRW",
       "vin": "1GT4UWEY8SF106414",
-      "stock": "6T398A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/4441f1352fba.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2025-gmc-sierra-3500hd-denali-id15384904.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2025-gmc-sierra-3500hd-denali-id15384904.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:44:38",
-      "odometer_km": 4715147,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2025GMCSierra 3500HDSLE 4x4 Double Cab 8 ft. box SRW",
       "vin": "1GT5UTEY6SF143514",
-      "stock": "6T416A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/75524064b03e.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2025-gmc-sierra-3500hd-sle-id15456186.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2025-gmc-sierra-3500hd-sle-id15456186.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:32:44",
-      "odometer_km": 1976019,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2025GMCTerrainElevation 4dr All-Wheel Drive",
       "vin": "3GKALUEG7SL281121",
-      "stock": "6T210A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/93d35ede58e2.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2025-gmc-terrain-elevation-id15182173.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2025-gmc-terrain-elevation-id15182173.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:44:47",
-      "odometer_km": 1400314,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2025JeepCompassAltitude 4dr 4x4",
       "vin": "3C4NJDFN3ST596465",
-      "stock": "5T005A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/be3cc7860886.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2025-jeep-compass-altitude-id14403206.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2025-jeep-compass-altitude-id14403206.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:44:56",
-      "odometer_km": 10321,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2025VolkswagenTiguanComfortline R-Line Black Edition 4dr All-Wheel Drive 4MOTION",
       "vin": "3VVGR7RMXSM007283",
-      "stock": "4T159D",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/82fcf14c98f0.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2025-volkswagen-tiguan-comfortline-r-line-black-edition-id15371930.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2025-volkswagen-tiguan-comfortline-r-line-black-edition-id15371930.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:45:04",
-      "odometer_km": 3557035,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2026ChevroletEquinoxLT 4dr All-Wheel Drive",
       "vin": "3GNAXPEG2TL287628",
-      "stock": "6U017",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/e0de15daeefc.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2026-chevrolet-equinox-lt-id15415642.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2026-chevrolet-equinox-lt-id15415642.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:43:54",
-      "odometer_km": 3022430,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2026ChevroletSilverado 2500HDLT 4x4 Crew Cab 6.75 ft. box",
       "vin": "2GC1KNE72T1119517",
-      "stock": "6U020",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/5d6b9d45e192.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2026-chevrolet-silverado-2500hd-lt-id15443784.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2026-chevrolet-silverado-2500hd-lt-id15443784.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:45:12",
-      "odometer_km": 3030030,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2026ChevroletSilverado 2500HDLT 4x4 Crew Cab 6.75 ft. box",
       "vin": "2GC1KNE76T1128950",
-      "stock": "6U021",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/8dd283e46c49.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2026-chevrolet-silverado-2500hd-lt-id15460755.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2026-chevrolet-silverado-2500hd-lt-id15460755.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-24T20:21:57",
-      "odometer_km": 2786327,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2026ChevroletSilverado 2500HDZR2 4x4 Crew Cab 6.75 ft. box",
       "vin": "1GC4KYEY6TF173368",
-      "stock": "6T336A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/42d4cc3600d5.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2026-chevrolet-silverado-2500hd-zr2-id15262992.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2026-chevrolet-silverado-2500hd-zr2-id15262992.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:45:11",
-      "odometer_km": 1081310,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2026HondaCR-VSport 4dr All-Wheel Drive",
       "vin": "2HKRS4H59TH111839",
-      "stock": "6U010A",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/d142a72c3d09.html",
-      "source_url": "https://www.gardnergm.com/used/vehicle/2026-honda-cr-v-sport-id15236921.htm",
-      "dealer_url": "https://www.gardnergm.com/used/vehicle/2026-honda-cr-v-sport-id15236921.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T01:45:19",
-      "odometer_km": 17041,
-      "condition": "used",
-      "city": "Hope",
-      "province": "BC"
+      "condition": "used"
     },
     {
       "name": "2023CHEVROLETBOLT EUVLT FRONT-WHEEL DRIVE (2LT)",
       "vin": "1G1FY6S05P4208096",
-      "stock": "23T372",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/444aef587f45.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2023-chevrolet-bolt-euv-lt-id12885227.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2023-chevrolet-bolt-euv-lt-id12885227.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:47:58",
-      "price": 39290.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 39290.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024BUICKENCORE GXSPORT TOURING 4DR ALL-WHEEL DRIVE (1SD)",
       "vin": "KL4AMESL9RB031174",
-      "stock": "24T030",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/d87c6d812d07.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2024-buick-encore-gx-sport-touring-id12846263.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2024-buick-encore-gx-sport-touring-id12846263.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:48:08",
-      "price": 40184.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 40184.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024CHEVROLETBLAZER EVRS 4DR ALL-WHEEL DRIVE",
       "vin": "3GNKDCRJ5RS115619",
-      "stock": "24T231",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/179f7e9b3111.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2024-chevrolet-blazer-ev-rs-id12799624.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2024-chevrolet-blazer-ev-rs-id12799624.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:48:17",
-      "price": 72894.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 72894.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024CHEVROLETTRAILBLAZERLT 4DR FRONT-WHEEL DRIVE (1LT)",
       "vin": "KL79MPSL9RB051717",
-      "stock": "24T395",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/b83699db62e8.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2024-chevrolet-trailblazer-lt-id13242154.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2024-chevrolet-trailblazer-lt-id13242154.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:48:24",
-      "price": 30790.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 30790.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2024GMCSIERRA 2500HDPRO 4X4 CREW CAB 8 FT. BOX (PCI)",
       "vin": "1GT49LEY8RF344757",
-      "stock": "24T212",
-      "color": "White",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/57ecbe37cfca.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2024-gmc-sierra-2500hd-pro-id12972825.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2024-gmc-sierra-2500hd-pro-id12972825.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T05:48:34",
-      "price": 76290.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 76290.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025CHEVROLETCORVETTEZ06 W/3LZ 2DR CONVERTIBLE (3LZ)",
       "vin": "1G1YF3D3XS5608825",
-      "stock": "25C357",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/e53ec0142875.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2025-chevrolet-corvette-z06-id14483245.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2025-chevrolet-corvette-z06-id14483245.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:43:30",
-      "price": 190204.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 190204.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025GMCSIERRA 1500SLE 4X4 CREW CAB 6.6 FT. BOX (3SA)",
       "vin": "3GTUUBED6SG370672",
-      "stock": "25T281",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/193010b79a9b.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2025-gmc-sierra-1500-sle-id14394829.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2025-gmc-sierra-1500-sle-id14394829.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:43:39",
-      "price": 73343.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 73343.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2025GMCSIERRA 3500HDPRO 4X4 CREW CAB 6.75 FT. BOX SRW (PCI)",
       "vin": "1GT4USEY5SF366830",
-      "stock": "25T337",
-      "color": "White",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/da88cee17ca4.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2025-gmc-sierra-3500hd-pro-id14483249.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2025-gmc-sierra-3500hd-pro-id14483249.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:43:49",
-      "price": 92873.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 92873.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026BUICKENCLAVEAVENIR 4DR ALL-WHEEL DRIVE (1SP)",
       "vin": "5GAEVCKSXTJ199355",
-      "stock": "26T132",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/d530458dbe8f.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-buick-enclave-avenir-id14732237.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-buick-enclave-avenir-id14732237.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:43:59",
-      "price": 79483.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 79483.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026BUICKENCLAVEPREFERRED 4DR ALL-WHEEL DRIVE (1SD)",
       "vin": "5GAEVAKS6TJ187093",
-      "stock": "26T117",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/7c82afadc211.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-buick-enclave-preferred-id14647504.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-buick-enclave-preferred-id14647504.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:37:15",
-      "price": 64383.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 64383.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026BUICKENVISIONAVENIR 4DR ALL-WHEEL DRIVE (1SU)",
       "vin": "LRBFZSR48TD018193",
-      "stock": "26T332",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/fb4df1d76258.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-buick-envision-avenir-id15166738.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-buick-envision-avenir-id15166738.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:37:24",
-      "price": 58093.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 58093.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026BUICKENVISIONAVENIR 4DR ALL-WHEEL DRIVE (1SU)",
       "vin": "LRBFZSR40TD099819",
-      "stock": "26T251",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/5a919add6bd7.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-buick-envision-avenir-id15278401.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-buick-envision-avenir-id15278401.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:37:34",
-      "price": 57888.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 57888.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026BUICKENVISIONAVENIR 4DR ALL-WHEEL DRIVE (1SU)",
       "vin": "LRBFZSR42TD099773",
-      "stock": "26T252",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/d2466897c023.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-buick-envision-avenir-id15278402.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-buick-envision-avenir-id15278402.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:37:41",
-      "price": 57393.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 57393.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026BUICKENVISIONPREFERRED 4DR ALL-WHEEL DRIVE (1SC)",
       "vin": "LRBFZMR45TD074958",
-      "stock": "26T219",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/e0e8bb17d151.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-buick-envision-preferred-id15129234.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-buick-envision-preferred-id15129234.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:37:50",
-      "price": 51583.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 51583.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026BUICKENVISIONPREFERRED 4DR ALL-WHEEL DRIVE (1SC)",
       "vin": "LRBFZMR43TD091967",
-      "stock": "26T253",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/2861a5ce82dd.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-buick-envision-preferred-id15278403.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-buick-envision-preferred-id15278403.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:38:00",
-      "price": 49293.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 49293.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026BUICKENVISIONPREFERRED 4DR ALL-WHEEL DRIVE (1SC)",
       "vin": "LRBFZMR47TD092197",
-      "stock": "26T254",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/feb87be4c563.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-buick-envision-preferred-id15278404.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-buick-envision-preferred-id15278404.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:38:08",
-      "price": 49788.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 49788.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026BUICKENVISIONSPORT TOURING 4DR ALL-WHEEL DRIVE (1SL)",
       "vin": "LRBFZPR45TD085444",
-      "stock": "26T231",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/a049fc94733e.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-buick-envision-sport-touring-id15229308.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-buick-envision-sport-touring-id15229308.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:38:17",
-      "price": 54128.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 54128.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETBLAZERLT 4DR ALL-WHEEL DRIVE (2LT)",
       "vin": "3GNKBHR44TS188341",
-      "stock": "26T299",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/2c27ba91fbf8.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-blazer-lt-id15371924.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-blazer-lt-id15371924.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:38:33",
-      "price": 49878.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 49878.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETBLAZERRS 4DR ALL-WHEEL DRIVE (1RS)",
       "vin": "3GNKBKR47TS180117",
-      "stock": "26T258",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/912fa0142c01.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-blazer-rs-id15189433.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-blazer-rs-id15189433.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:38:41",
-      "price": 59478.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 59478.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETCOLORADOWT 4X4 CREW CAB 5 FT. BOX (4WT)",
       "vin": "1GCPTBEK4T1268172",
-      "stock": "26T355",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/2a82b22dfda0.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-colorado-wt-id15239878.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-colorado-wt-id15239878.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:38:49",
-      "price": 50234.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 50234.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETCOLORADOWT 4X2 CREW CAB 5 FT. BOX",
       "vin": "1GCPTBEK2T1282510",
-      "stock": "26T297",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/4e2c721d7f03.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-colorado-wt-id15296612.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-colorado-wt-id15296612.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:36:45",
-      "price": 48739.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 48739.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETCOLORADOWT 4X2 CREW CAB 5 FT. BOX",
       "vin": "1GCPTBEK0T1282425",
-      "stock": "26T300",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/c22e7d4ffe17.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-colorado-wt-id15296613.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-colorado-wt-id15296613.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T21:55:54",
-      "price": 48739.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 48739.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETCOLORADOWT 4X4 CREW CAB 5 FT. BOX (4WT)",
       "vin": "1GCPTBEK2T1301640",
-      "stock": "26T386",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/c7818544607f.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-colorado-wt-id15348279.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-colorado-wt-id15348279.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T21:56:04",
-      "price": 48114.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 48114.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026CHEVROLETCOLORADOWT 4X4 CREW CAB 5 FT. BOX (4WT)",
+      "vin": "1GCPTBEK1T1328263",
+      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/d644abc194b8.html",
+      "condition": "new",
+      "price": 48114.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026CHEVROLETCOLORADOZ71 4X4 CREW CAB 5 FT. BOX (4Z7)",
+      "vin": "1GCPTDEK5T1326950",
+      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/130134736ee6.html",
+      "condition": "new",
+      "price": 62063.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETCORVETTESTINGRAY W/2LT 2DR CONVERTIBLE (2LT)",
       "vin": "1G1YB3D41T5103116",
-      "stock": "26C135",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/ac4a970c5350.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-corvette-stingray-id14587674.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-corvette-stingray-id14587674.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:37:22",
-      "price": 128098.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 128098.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETEQUINOXACTIV 4DR ALL-WHEEL DRIVE (KDZ)",
       "vin": "3GNAXSEG2TL326687",
-      "stock": "26T266",
-      "color": "White",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/6c6055a1b769.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-equinox-activ-id15275310.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-equinox-activ-id15275310.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:37:30",
-      "price": 48448.0,
-      "price_currency": "CAD",
-      "odometer_km": 1948,
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 48448.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETEQUINOX EVLT 4DR (2LT)",
       "vin": "3GN7DLRP2TS182423",
-      "stock": "26T408",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/0bd1624255c4.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-equinox-ev-lt-id15405900.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-equinox-ev-lt-id15405900.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:37:38",
-      "price": 49194.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 49194.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETEQUINOXLT 4DR ALL-WHEEL DRIVE (2LT)",
       "vin": "3GNAXPEG6TL275174",
-      "stock": "26T052",
-      "color": "Black",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/be569e6d1487.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-equinox-lt-id14577186.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-equinox-lt-id14577186.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:37:46",
-      "price": 47537.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 47537.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETEQUINOXLT 4DR ALL-WHEEL DRIVE (2LT)",
       "vin": "3GNAXPEG0TL522690",
-      "stock": "26T320",
-      "color": "Blue",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/effe347074ee.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-equinox-lt-id15153307.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-equinox-lt-id15153307.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:37:55",
-      "price": 43143.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 43143.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETEXPRESS 3500WORK VAN REAR-WHEEL DRIVE CARGO VAN (1WT)",
       "vin": "1GCZGGF70T1205980",
-      "stock": "26T211",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/7b33d33268d8.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-express-3500-work-van-id15034703.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-express-3500-work-van-id15034703.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:44:07",
-      "price": 65879.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 65879.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETEXPRESS 3500WORK VAN REAR-WHEEL DRIVE CARGO VAN (1WT)",
       "vin": "1GCZGGF79T1230473",
-      "stock": "26T285",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/0837ff2a28ec.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-express-3500-work-van-id15129240.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-express-3500-work-van-id15129240.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:44:15",
-      "price": 65439.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 65439.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETSILVERADO 1500CUSTOM 4X4 CREW CAB 6.6 FT. BOX (1CX)",
       "vin": "1GCPKBEK9TZ491165",
-      "stock": "26T345",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/e201084c55b9.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-silverado-1500-custom-id15418026.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-silverado-1500-custom-id15418026.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T21:56:29",
-      "price": 67143.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 67143.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETSILVERADO 1500HIGH COUNTRY 4X4 CREW CAB 6.6 FT. BOX (3LZ)",
       "vin": "3GCUKJE85TG168037",
-      "stock": "26T104",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/d1f1a850578a.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-silverado-1500-high-country-id14700578.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-silverado-1500-high-country-id14700578.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:44:24",
-      "price": 96384.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 96384.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETSILVERADO 1500HIGH COUNTRY 4X4 CREW CAB 5.75 FT. BOX (3LZ)",
       "vin": "3GCUKJED0TG320657",
-      "stock": "26T097",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/1d0385b3c205.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-silverado-1500-high-country-id15072543.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-silverado-1500-high-country-id15072543.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:44:34",
-      "price": 98138.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 98138.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETSILVERADO 1500RST 4X4 CREW CAB 6.6 FT. BOX (1SP)",
       "vin": "1GCUKEE83TZ379311",
-      "stock": "26T352",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/8bbe06951f4e.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-silverado-1500-rst-id15213069.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-silverado-1500-rst-id15213069.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:44:44",
-      "price": 83839.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 83839.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETSILVERADO 3500HDLT 4X4 CREW CAB 8 FT. BOX SRW (1LT)",
       "vin": "1GC4KTEY3TF298735",
-      "stock": "26T377",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/bf29ff76fd11.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-silverado-3500hd-lt-id15293783.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-silverado-3500hd-lt-id15293783.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:44:53",
-      "price": 100253.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 100253.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETSILVERADO 3500HDLT 4X4 CREW CAB 6.75 FT. BOX SRW (1LT)",
       "vin": "1GC4KTEY9TF404248",
-      "stock": "26T371",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/589643fbc357.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-silverado-3500hd-lt-id15437259.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-silverado-3500hd-lt-id15437259.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T21:56:44",
-      "price": 100093.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 100093.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026CHEVROLETSILVERADO 3500HDLT 4X4 CREW CAB 6.75 FT. BOX SRW (1LT)",
+      "vin": "2GC4KTEY7T1242966",
+      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/92e54c9680bf.html",
+      "condition": "new",
+      "price": 105278.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETSILVERADO 3500HDLTZ 4X4 CREW CAB 6.75 FT. BOX SRW (1LZ)",
       "vin": "2GC4KUEY8T1120283",
-      "stock": "26T091",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/2b125bf53663.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-silverado-3500hd-ltz-id14700577.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-silverado-3500hd-ltz-id14700577.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:45:02",
-      "price": 104323.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 104323.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETSUBURBANHIGH COUNTRY 4DR 4X4 (3LZ)",
       "vin": "1GNS6GKL0TR375210",
-      "stock": "26T333",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/b8fb167e3e41.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-suburban-high-country-id15210938.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-suburban-high-country-id15210938.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:45:10",
-      "price": 116513.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 116513.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETTAHOEPREMIER 4DR 4X4 (1LZ)",
       "vin": "1GNS6SKL2TR434227",
-      "stock": "26T331",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/2de909e78316.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-tahoe-premier-id15332895.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-tahoe-premier-id15332895.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T22:45:20",
-      "price": 114138.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 114138.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETTRAILBLAZERACTIV 4DR ALL-WHEEL DRIVE (1SA)",
       "vin": "KL79MSSL8TB042954",
-      "stock": "26T009",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/6c58d917beb0.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trailblazer-activ-id14498662.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trailblazer-activ-id14498662.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:49:02",
-      "price": 42079.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 42079.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETTRAVERSELT 4DR ALL-WHEEL DRIVE (2LT)",
       "vin": "1GNEVGKSXTJ370568",
-      "stock": "26T276",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/8bf581ee4a0a.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-traverse-lt-id15197380.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-traverse-lt-id15197380.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:49:11",
-      "price": 54893.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 54893.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETTRAVERSERS 4DR ALL-WHEEL DRIVE (2RS)",
       "vin": "1GNEVLKSXTJ356288",
-      "stock": "26T275",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/3e9846c34e19.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-traverse-rs-id15119158.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-traverse-rs-id15119158.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:49:21",
-      "price": 73753.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 73753.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETTRAX1RS 4DR FRONT-WHEEL DRIVE",
       "vin": "KL77LGE28TC256315",
-      "stock": "26T314",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/4e116e1e906d.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trax-1rs-id15368774.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trax-1rs-id15368774.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:49:30",
-      "price": 30733.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 30733.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETTRAX2RS 4DR FRONT-WHEEL DRIVE",
       "vin": "KL77LJE22TC258557",
-      "stock": "26T312",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/36fbb2fc2312.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trax-2rs-id15368772.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trax-2rs-id15368772.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:49:39",
-      "price": 35123.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 35123.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETTRAX2RS 4DR FRONT-WHEEL DRIVE",
       "vin": "KL77LJE21TC276984",
-      "stock": "26T329",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/ee767cd215e3.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trax-2rs-id15437257.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trax-2rs-id15437257.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T21:57:03",
-      "price": 35028.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 35028.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETTRAXACTIV 4DR FRONT-WHEEL DRIVE (1SA)",
       "vin": "KL77LKE21TC258913",
-      "stock": "26T313",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/475eafaa021e.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trax-activ-id15368773.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trax-activ-id15368773.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:49:47",
-      "price": 34628.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 34628.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETTRAXACTIV 4DR FRONT-WHEEL DRIVE (1SA)",
       "vin": "KL77LKE2XTC276665",
-      "stock": "26T327",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/ef5e693f419a.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trax-activ-id15431130.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trax-activ-id15431130.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T21:57:13",
-      "price": 34533.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 34533.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETTRAXACTIV 4DR FRONT-WHEEL DRIVE (1SA)",
       "vin": "KL77LKE23TC276961",
-      "stock": "26T330",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/32808f12c61f.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trax-activ-id15431131.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trax-activ-id15431131.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T21:57:21",
-      "price": 35028.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 35028.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETTRAXLT 4DR FRONT-WHEEL DRIVE (1LT)",
       "vin": "KL77LHE23TC219100",
-      "stock": "26T279",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/6deaf29db846.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trax-lt-id15368769.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trax-lt-id15368769.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:49:56",
-      "price": 31238.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 31238.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETTRAXLT 4DR FRONT-WHEEL DRIVE (1LT)",
       "vin": "KL77LHE29TC255700",
-      "stock": "26T311",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/8d2bd80b26c6.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trax-lt-id15368771.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trax-lt-id15368771.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:50:06",
-      "price": 31238.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 31238.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026CHEVROLETTRAXLT 4DR FRONT-WHEEL DRIVE (1LT)",
       "vin": "KL77LHE21TC278162",
-      "stock": "26T328",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/88f583b827f4.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trax-lt-id15437255.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-chevrolet-trax-lt-id15437255.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T21:57:30",
-      "price": 31733.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 31733.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCACADIAELEVATION 4DR ALL-WHEEL DRIVE (4SD)",
       "vin": "1GKENNKS9TJ338941",
-      "stock": "26T208",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/d3de62097d66.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-acadia-elevation-id15085661.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-acadia-elevation-id15085661.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:50:21",
-      "price": 57888.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 57888.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCACADIAELEVATION 4DR ALL-WHEEL DRIVE (4SD)",
       "vin": "1GKENNKS7TJ338744",
-      "stock": "26T209",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/33721e62500e.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-acadia-elevation-id15085662.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-acadia-elevation-id15085662.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:50:29",
-      "price": 58383.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 58383.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCHUMMER EV PICKUP2X W/3VL ALL-WHEEL DRIVE (3VL)",
       "vin": "1GT4EADD6TU605899",
-      "stock": "26T368",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/87ca2a505e92.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-hummer-ev-pickup-2x-id15368775.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-hummer-ev-pickup-2x-id15368775.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:50:36",
-      "price": 134692.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 134692.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 1500ELEVATION 4X4 CREW CAB 5.75 FT. BOX (PDQ)",
       "vin": "3GTUUCED6TG107279",
-      "stock": "26T094",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/b543f4936d1f.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-1500-elevation-id14539359.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-1500-elevation-id14539359.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:51:26",
-      "price": 83063.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 83063.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 1500ELEVATION 4X4 CREW CAB 5.75 FT. BOX (3SB)",
       "vin": "3GTUUCED6TG151654",
-      "stock": "26T366",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/845b7d4a6ec7.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-1500-elevation-id15281600.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-1500-elevation-id15281600.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:51:44",
-      "price": 86348.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 86348.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 1500ELEVATION",
       "vin": "3GTUUCED6TG453641",
-      "stock": "26T309",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/5ccb309c44a5.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-1500-elevation-id15366426.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-1500-elevation-id15366426.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:51:52",
-      "price": 87388.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 87388.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 1500PRO 4X4 CREW CAB 6.6 FT. BOX (1SA)",
       "vin": "1GTUUAED8TZ214192",
-      "stock": "26T256",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/86caa3c23fec.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-1500-pro-id14980021.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-1500-pro-id14980021.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:32:54",
-      "price": 76139.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 76139.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 1500PRO 4X4 CREW CAB 5.75 FT. BOX (1SA)",
       "vin": "1GTUUAED4TZ250610",
-      "stock": "26T259",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/2a82fcea8101.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-1500-pro-id14986067.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-1500-pro-id14986067.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:33:05",
-      "price": 74129.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 74129.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 1500PRO 4X4 CREW CAB 6.6 FT. BOX (1SA)",
       "vin": "3GTPUAEK5TG481625",
-      "stock": "26T415",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/abea6fea298d.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-1500-pro-id15450498.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-1500-pro-id15450498.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:32:46",
-      "price": 67593.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 67593.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026GMCSIERRA 1500PRO 4X4 CREW CAB 6.6 FT. BOX (1SA)",
+      "vin": "1GTUUAED7TZ277901",
+      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/a0ad549c7a22.html",
+      "condition": "new",
+      "price": 74648.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 1500SLE",
       "vin": "3GTUUBED4TG280406",
-      "stock": "26T197",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/01093ac8d7eb.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-1500-sle-id15366418.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-1500-sle-id15366418.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:33:14",
-      "price": 78163.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 78163.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 1500SLT 4X4 CREW CAB 6.6 FT. BOX (4SA)",
       "vin": "3GTUUDE88TG112007",
-      "stock": "26T354",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/6ed768e57d28.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-1500-slt-id15225205.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-1500-slt-id15225205.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:33:34",
-      "price": 91639.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 91639.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 3500HDAT4 4X4 CREW CAB 6.75 FT. BOX SRW (PDG)",
       "vin": "1GT4UVEY8TF366176",
-      "stock": "26T385",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/220148b4be95.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-at4-id15348278.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-at4-id15348278.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:33:43",
-      "price": 121173.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 121173.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 3500HDAT4 4X4 CREW CAB 8 FT. BOX SRW (4SB)",
       "vin": "1GT4UVEY9TF228503",
-      "stock": "26T411",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/10847a264706.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-at4-id15426613.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-at4-id15426613.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T21:57:37",
-      "price": 114159.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 114159.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 3500HDDENALI 4X4 CREW CAB 6.75 FT. BOX SRW (5SA)",
       "vin": "1GT4UWEY7TF110942",
-      "stock": "26T156",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/777e353405e7.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-denali-id14640247.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-denali-id14640247.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:33:51",
-      "price": 121188.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 121188.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 3500HDDENALI 4X4 CREW CAB 6.75 FT. BOX SRW (PEC)",
       "vin": "1GT4UWEY8TF291954",
-      "stock": "26T194",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/c2e767edc7e1.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-denali-id15158021.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-denali-id15158021.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:34:00",
-      "price": 123803.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 123803.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 3500HDDENALI ULTIMATE 4X4 CREW CAB 6.75 FT. BOX SRW (5SB)",
       "vin": "1GT4UYEY6TF366713",
-      "stock": "26T343",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/5214c73f5677.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-denali-ultimate-id15408607.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-denali-ultimate-id15408607.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:34:08",
-      "price": 134313.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 134313.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 3500HDPRO 4X4 DOUBLE CAB 8 FT. BOX SRW (PCI)",
       "vin": "1GD5USEY4TF336977",
-      "stock": "26T357",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/7d7a6cb275ed.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-pro-id15262990.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-pro-id15262990.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:34:17",
-      "price": 91654.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 91654.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 3500HDPRO 4X4 CREW CAB 8 FT. BOX SRW (1SA)",
       "vin": "1GT4USE70TF401203",
-      "stock": "26T417",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/32ac8ab86ac6.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-pro-id15458446.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-pro-id15458446.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:48:12",
-      "price": 82914.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 82914.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 3500HDSLE 4X4 CREW CAB 6.75 FT. BOX SRW (B59)",
       "vin": "1GT4UTEY8TF104324",
-      "stock": "26T062",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/8d9b54c2eb0d.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-sle-id14569878.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-sle-id14569878.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:34:25",
-      "price": 101198.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 101198.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 3500HDSLE 4X4 CREW CAB 6.75 FT. BOX SRW (B59)",
       "vin": "1GT4UTEY1TF144115",
-      "stock": "26T101",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/757bfea21013.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-sle-id14647503.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-sle-id14647503.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:34:32",
-      "price": 102258.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 102258.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 3500HDSLE 4X4 CREW CAB 6.75 FT. BOX SRW (PDQ)",
       "vin": "1GT4UTEY9TF222124",
-      "stock": "26T191",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/0e9cba065376.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-sle-id15116042.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-sle-id15116042.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:34:41",
-      "price": 103418.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 103418.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 3500HDSLE 4X4 DOUBLE CAB 8 FT. BOX SRW (PDU)",
       "vin": "1GT5UTE70TF269067",
-      "stock": "26T273",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/70082e6f4a7b.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-sle-id15380221.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-sle-id15380221.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:34:51",
-      "price": 88704.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 88704.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 3500HDSLE 4X4 CREW CAB 6.75 FT. BOX SRW (B59)",
       "vin": "1GT4UTE77TF407361",
-      "stock": "26T410",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/7faca8efd2be.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-sle-id15447960.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-sle-id15447960.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:48:29",
-      "price": 90934.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 90934.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 3500HDSLT 4X4 CREW CAB 6.75 FT. BOX SRW (PDB)",
       "vin": "1GT4UUEY3TF218415",
-      "stock": "26T193",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/177ab2abe5c3.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-slt-id14945228.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-slt-id14945228.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-16T07:35:01",
-      "price": 114773.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 114773.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCSIERRA 3500HDSLT 4X4 CREW CAB 6.75 FT. BOX SRW (4SA)",
       "vin": "1GT4UUE76TF158783",
-      "stock": "26T356",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/2082d62b9e35.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-slt-id15232886.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-sierra-3500hd-slt-id15232886.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:36:49",
-      "price": 98394.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 98394.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCTERRAINELEVATION 4DR ALL-WHEEL DRIVE (3SB)",
       "vin": "3GKALUEG3TL534615",
-      "stock": "26T362",
-      "color": "White",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/5bc8c13e7588.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-terrain-elevation-id15260185.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-terrain-elevation-id15260185.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:36:59",
-      "price": 41688.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 41688.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2026GMCYUKONDENALI 4DR 4X4 (5SA)",
       "vin": "1GKS2DKL4TR434993",
-      "stock": "26T347",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/d5788aefd82a.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-yukon-denali-id15332896.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2026-gmc-yukon-denali-id15332896.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T19:37:07",
-      "price": 114603.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 114603.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027CHEVROLETBOLTLT 4DR (2LT)",
       "vin": "1G1FY6EVXVF121139",
-      "stock": "27T006",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/41b435c133d2.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2027-chevrolet-bolt-lt-id15371927.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2027-chevrolet-bolt-lt-id15371927.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:38:04",
-      "price": 44503.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 44503.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027CHEVROLETBOLTRS 4DR (2RS)",
       "vin": "1G1FZ6EV7VF115702",
-      "stock": "27T050",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/c9d4a3a6c16c.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2027-chevrolet-bolt-rs-id15460749.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2027-chevrolet-bolt-rs-id15460749.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:48:22",
-      "price": 47374.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 47374.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027CHEVROLETTAHOELT 4DR 4X4 (1LT)",
       "vin": "1GNS6NK8XVR115173",
-      "stock": "27T013",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/d95d68965235.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2027-chevrolet-tahoe-lt-id15437263.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2027-chevrolet-tahoe-lt-id15437263.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:36:56",
-      "price": 98118.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 98118.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027CHEVROLETTAHOEZ71 4DR 4X4 (2Z7)",
       "vin": "1GNS6PKD2VR123163",
-      "stock": "27T019",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/8d4b865e8a0c.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2027-chevrolet-tahoe-z71-id15447962.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2027-chevrolet-tahoe-z71-id15447962.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:48:37",
-      "price": 99103.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 99103.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027GMCACADIADENALI 4DR ALL-WHEEL DRIVE (5SB)",
+      "vin": "1GKEMRKS4VJ167447",
+      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/a8f5243a4e31.html",
+      "condition": "new",
+      "price": 77033.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027GMCTERRAINAT4 4DR ALL-WHEEL DRIVE (CWN)",
       "vin": "3GKALYEG9VL187740",
-      "stock": "27T010",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/01ff8b481c44.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2027-gmc-terrain-at4-id15391347.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2027-gmc-terrain-at4-id15391347.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:37:05",
-      "price": 50943.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 50943.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027GMCTERRAINAT4 4DR ALL-WHEEL DRIVE (ZL4)",
       "vin": "3GKALYEG8VL216256",
-      "stock": "27T034",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/77af5435b2d5.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2027-gmc-terrain-at4-id15447964.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2027-gmc-terrain-at4-id15447964.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T06:49:39",
-      "price": 50098.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 50098.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027GMCTERRAINDENALI 4DR ALL-WHEEL DRIVE (5SB)",
       "vin": "3GKALZEGXVL187185",
-      "stock": "27T008",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/74fe2a17a2e4.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2027-gmc-terrain-denali-id15447961.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2027-gmc-terrain-denali-id15447961.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T22:48:54",
-      "price": 54533.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 54533.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027GMCTERRAINELEVATION 4DR ALL-WHEEL DRIVE (3SB)",
       "vin": "3GKALUEG3VL158095",
-      "stock": "27T014",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/d7c9529b65c9.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2027-gmc-terrain-elevation-id15332898.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2027-gmc-terrain-elevation-id15332898.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:38:22",
-      "price": 41688.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 41688.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027GMCTERRAINELEVATION 4DR ALL-WHEEL DRIVE (3SB)",
       "vin": "3GKALUEG2VL193615",
-      "stock": "27T009",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/new/7a7ad14ed458.html",
-      "source_url": "https://www.gardnergm.com/new/vehicle/2027-gmc-terrain-elevation-id15437262.htm",
-      "dealer_url": "https://www.gardnergm.com/new/vehicle/2027-gmc-terrain-elevation-id15437262.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-20T14:37:13",
-      "price": 42039.0,
-      "price_currency": "CAD",
       "condition": "new",
-      "city": "Hope",
-      "province": "BC"
+      "price": 42039.0,
+      "price_currency": "CAD"
     }
   ]
 }
