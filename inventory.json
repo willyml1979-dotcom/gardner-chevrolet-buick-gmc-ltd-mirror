@@ -1,7 +1,7 @@
 {
   "dealership": "Gardner Chevrolet Buick Gmc Ltd",
-  "generated_at": "2026-10-26T02:28:27",
-  "vehicle_count": 253,
+  "generated_at": "2026-11-16T19:14:45",
+  "vehicle_count": 250,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -72,12 +72,6 @@
       "condition": "used"
     },
     {
-      "name": "2012ChevroletExpress 2500Standard Rear-Wheel Drive Cargo Van",
-      "vin": "1GCWGFCG4C1119900",
-      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/55809b33fb37.html",
-      "condition": "used"
-    },
-    {
       "name": "2012DodgeJourneyR/T 4dr All-Wheel Drive",
       "vin": "3C4PDDFG2CT188719",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/1e37872e85a9.html",
@@ -99,12 +93,6 @@
       "name": "2012InfinitiQX568 Passenger 4dr All-Wheel Drive",
       "vin": "JN8AZ2NE3C9016823",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/1c967715c635.html",
-      "condition": "used"
-    },
-    {
-      "name": "2013ChevroletSilverado 1500LS 4x4 Crew Cab 5.75 ft. box",
-      "vin": "3GCPKREA0DG235367",
-      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/f8ed84f56178.html",
       "condition": "used"
     },
     {
@@ -240,12 +228,6 @@
       "condition": "used"
     },
     {
-      "name": "2016ChevroletSonicLTZ Auto 4dr Hatchback",
-      "vin": "1G1JE6SB6G4175100",
-      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/01b9cc309275.html",
-      "condition": "used"
-    },
-    {
       "name": "2016FordF-150XLT 4x4 SuperCrew Cab Styleside 5.5 ft. box",
       "vin": "1FTEW1EP2GKD61356",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/6de32a2fc348.html",
@@ -291,6 +273,12 @@
       "name": "2017GMCAcadiaSLE-1 All-Wheel Drive",
       "vin": "1GKKNRLA1HZ315629",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/c5eae134f84d.html",
+      "condition": "used"
+    },
+    {
+      "name": "2017GMCCanyonDenali 4x4 Crew Cab 6 ft. box",
+      "vin": "1GTG6EEN2H1271338",
+      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/871f6ff60965.html",
       "condition": "used"
     },
     {
@@ -354,12 +342,6 @@
       "condition": "used"
     },
     {
-      "name": "2018ChevroletImpala2LZ Premier  4dr Sedan",
-      "vin": "1G1125S3XJU108566",
-      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/7ba8ae230c78.html",
-      "condition": "used"
-    },
-    {
       "name": "2018ChevroletMalibuLT 4dr Sedan",
       "vin": "1G1ZD5ST4JF116499",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/a3bfb61f35d6.html",
@@ -399,12 +381,6 @@
       "name": "2019AcuraMDXElite 7-Passenger (A9) 4dr SH-AWD",
       "vin": "5J8YD4H88KL802128",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/8f37863c9749.html",
-      "condition": "used"
-    },
-    {
-      "name": "2019ChevroletEquinoxLT w/2LT All-Wheel Drive",
-      "vin": "2GNAXVEX6K6135584",
-      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/0ee4f87f6b4b.html",
       "condition": "used"
     },
     {
@@ -522,12 +498,6 @@
       "condition": "used"
     },
     {
-      "name": "2020ChevroletSilverado 3500HDHigh Country 4x4 Crew Cab 6.75 ft. box SRW",
-      "vin": "1GC4YVEY1LF179348",
-      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/4afd3923acf1.html",
-      "condition": "used"
-    },
-    {
       "name": "2020ChevroletTahoePremier 4x4",
       "vin": "1GNSKCKC3LR177385",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/170c9303c612.html",
@@ -573,12 +543,6 @@
       "name": "2020JeepCherokeeTrailhawk 4dr 4x4",
       "vin": "1C4PJMBNXLD563825",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/ef1ffd65f80e.html",
-      "condition": "used"
-    },
-    {
-      "name": "2021BuickEncore GXPreferred All-Wheel Drive",
-      "vin": "KL4MMCSL5MB097165",
-      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/07907a4d671a.html",
       "condition": "used"
     },
     {
@@ -696,9 +660,21 @@
       "condition": "used"
     },
     {
+      "name": "2022ChevroletSilverado 3500HDLT 4x4 Crew Cab 6.75 ft. box SRW",
+      "vin": "1GC4YTEY5NF110461",
+      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/3e4b39c30a93.html",
+      "condition": "used"
+    },
+    {
       "name": "2022ChevroletTrailBlazerLT Front-Wheel Drive",
       "vin": "KL79MPSL8NB068809",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/57f34b75311d.html",
+      "condition": "used"
+    },
+    {
+      "name": "2022ChevroletTraverseLT Cloth w/1LT All-Wheel Drive",
+      "vin": "1GNEVGKW1NJ166523",
+      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/d76a5e522e48.html",
       "condition": "used"
     },
     {
@@ -762,12 +738,6 @@
       "condition": "used"
     },
     {
-      "name": "2023ChevroletCorvetteStingray w/3LT 2dr Convertible",
-      "vin": "1G1YC3D48P5141235",
-      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/8a96aa53b08e.html",
-      "condition": "used"
-    },
-    {
       "name": "2023ChevroletEquinoxLS w/1LS Front-Wheel Drive",
       "vin": "3GNAXHEG5PL264372",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/08ce97cb2c5e.html",
@@ -789,12 +759,6 @@
       "name": "2023ChevroletSilverado 3500HDWork Truck 4x4 Crew Cab 8 ft. box SRW",
       "vin": "1GC4YSE7XPF132928",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/dd3fbe239682.html",
-      "condition": "used"
-    },
-    {
-      "name": "2023ChevroletTrailBlazerLT Front-Wheel Drive",
-      "vin": "KL79MPS26PB089006",
-      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/654585e9812b.html",
       "condition": "used"
     },
     {
@@ -831,6 +795,18 @@
       "name": "2023GMCYukonSLT 4x4",
       "vin": "1GKS2BKD3PR545358",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/45e2b347fd6e.html",
+      "condition": "used"
+    },
+    {
+      "name": "2023TeslaModel YLong Range 4dr All-Wheel Drive Sport Utility",
+      "vin": "7SAYGDEE8PF584690",
+      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/78fdfc5e8ebb.html",
+      "condition": "used"
+    },
+    {
+      "name": "2023TeslaModel YLong Range 4dr All-Wheel Drive Sport Utility",
+      "vin": "7SAYGDEE8PF582566",
+      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/6fdd6c5d4321.html",
       "condition": "used"
     },
     {
@@ -900,6 +876,12 @@
       "condition": "used"
     },
     {
+      "name": "2025ChevroletSilverado 1500LT Trail Boss 4x4 Crew Cab 5.75 ft. box",
+      "vin": "3GCUKFED4SG188739",
+      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/4bf486e72619.html",
+      "condition": "used"
+    },
+    {
       "name": "2025GMCAcadiaDenali 4dr All-Wheel Drive",
       "vin": "1GKENRRS4SJ282936",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/67d768cc9b53.html",
@@ -915,12 +897,6 @@
       "name": "2025GMCSierra 3500HDDenali 4x4 Crew Cab 6.75 ft. box SRW",
       "vin": "1GT4UWEY8SF106414",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/4441f1352fba.html",
-      "condition": "used"
-    },
-    {
-      "name": "2025GMCSierra 3500HDSLE 4x4 Double Cab 8 ft. box SRW",
-      "vin": "1GT5UTEY6SF143514",
-      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/75524064b03e.html",
       "condition": "used"
     },
     {
@@ -963,6 +939,12 @@
       "name": "2026ChevroletSilverado 2500HDZR2 4x4 Crew Cab 6.75 ft. box",
       "vin": "1GC4KYEY6TF173368",
       "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/42d4cc3600d5.html",
+      "condition": "used"
+    },
+    {
+      "name": "2026ChevroletTrailBlazerLT 4dr All-Wheel Drive",
+      "vin": "KL79MRSL5TB122169",
+      "url": "https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/60768f925a52.html",
       "condition": "used"
     },
     {
