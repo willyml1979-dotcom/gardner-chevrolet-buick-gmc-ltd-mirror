@@ -1,6 +1,6 @@
 # Gardner Chevrolet Buick GMC Ltd.
 
- dealership in Hope. AI-readable inventory mirror, about 250 vehicles.
+ dealership in Hope. AI-readable inventory mirror, about 252 vehicles.
 
 - Official website: https://www.gardnergm.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/gardner-chevrolet-buick-gmc-ltd-mirror/used/
